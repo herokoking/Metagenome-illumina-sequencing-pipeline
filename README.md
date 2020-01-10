@@ -21,7 +21,7 @@
     以上为生成基因集
 
 
-    Step--run：1、利用指控后的数据与metaphlan2生成物种丰度表
+    Step--run：1、利用质控后的数据与metaphlan2生成物种丰度表
     Step--run：2、利用每个样本的基因集注释到功能数据库KEGG、COG、VFDB、ARDB
     Step--run：3、利用指控后的数据得到mOTU结果
 
